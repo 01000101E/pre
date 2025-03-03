@@ -8,8 +8,8 @@ export default function Footer() {
         <div className="max-w-3xl mx-auto">
           <div className="text-center py-8">
             <p className="text-sm text-gray-700 dark:text-gray-400">
-              © ArchiveLink. Connecting experts in document preservation. <br />
-              <span className="font-medium text-indigo-500">Built by EvieCodes.com</span>
+              ArchiveLink. Empowering individuals by helping them protect and preserve their valuable documents. <br />
+              <span className="font-medium text-indigo-500">Built by William and Evie</span>
             </p>
           </div>
         </div>

@@ -103,9 +103,9 @@ export default function SubscribeForm() {
           <p className="text-sm text-gray-500">
             Join the{" "}
             <span className="text-gray-700 dark:text-gray-200 font-medium">
-              2.000+
+              thousands
             </span>{" "}
-            members who have already signed up.
+            of members who have already signed up.
           </p>
         </div>
       </div>
